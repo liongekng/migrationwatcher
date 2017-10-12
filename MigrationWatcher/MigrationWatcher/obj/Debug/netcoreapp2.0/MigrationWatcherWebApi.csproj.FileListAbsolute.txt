@@ -1,0 +1,11 @@
+C:\Users\lng\Source\Repos\migrationwatcher\MigrationWatcher\MigrationWatcher\bin\Debug\netcoreapp2.0\MigrationWatcherWebApi.deps.json
+C:\Users\lng\Source\Repos\migrationwatcher\MigrationWatcher\MigrationWatcher\bin\Debug\netcoreapp2.0\MigrationWatcherWebApi.runtimeconfig.json
+C:\Users\lng\Source\Repos\migrationwatcher\MigrationWatcher\MigrationWatcher\bin\Debug\netcoreapp2.0\MigrationWatcherWebApi.runtimeconfig.dev.json
+C:\Users\lng\Source\Repos\migrationwatcher\MigrationWatcher\MigrationWatcher\bin\Debug\netcoreapp2.0\MigrationWatcherWebApi.dll
+C:\Users\lng\Source\Repos\migrationwatcher\MigrationWatcher\MigrationWatcher\bin\Debug\netcoreapp2.0\MigrationWatcherWebApi.pdb
+C:\Users\lng\Source\Repos\migrationwatcher\MigrationWatcher\MigrationWatcher\obj\Debug\netcoreapp2.0\MigrationWatcherWebApi.csprojResolveAssemblyReference.cache
+C:\Users\lng\Source\Repos\migrationwatcher\MigrationWatcher\MigrationWatcher\obj\Debug\netcoreapp2.0\MigrationWatcherWebApi.csproj.CoreCompileInputs.cache
+C:\Users\lng\Source\Repos\migrationwatcher\MigrationWatcher\MigrationWatcher\obj\Debug\netcoreapp2.0\MigrationWatcherWebApi.AssemblyInfoInputs.cache
+C:\Users\lng\Source\Repos\migrationwatcher\MigrationWatcher\MigrationWatcher\obj\Debug\netcoreapp2.0\MigrationWatcherWebApi.AssemblyInfo.cs
+C:\Users\lng\Source\Repos\migrationwatcher\MigrationWatcher\MigrationWatcher\obj\Debug\netcoreapp2.0\MigrationWatcherWebApi.dll
+C:\Users\lng\Source\Repos\migrationwatcher\MigrationWatcher\MigrationWatcher\obj\Debug\netcoreapp2.0\MigrationWatcherWebApi.pdb
